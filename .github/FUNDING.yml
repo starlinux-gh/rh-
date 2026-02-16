@@ -12,4 +12,4 @@ lfx_crowdfunding: ""      # LFX Crowdfunding project name
 polar: ""                 # Single Polar username
 buy_me_a_coffee: ""       # Single Buy Me a Coffee username
 thanks_dev: ""            # Single thanks.dev username
-custom: [https://paypal.me/FrancoParisi]                # Up to 4 custom sponsorship URLs,['https://paypal.me/FrancoParisi']
+custom: []                # Up to 4 custom sponsorship URLs,['']
