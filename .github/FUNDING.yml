@@ -1,0 +1,15 @@
+# Funding configuration for the RH+ project
+
+github: []                # Up to 4 GitHub Sponsors-enabled usernames, e.g. ['user1', 'user2']
+patreon: ""               # Single Patreon username
+open_collective: ""       # Single Open Collective project name
+ko_fi: ""                 # Single Ko-fi username
+tidelift: ""              # Tidelift platform-name/package-name, e.g. npm/babel
+community_bridge: ""      # Community Bridge project name, e.g. cloud-foundry
+liberapay: ""             # Single Liberapay username
+issuehunt: ""             # Single IssueHunt username
+lfx_crowdfunding: ""      # LFX Crowdfunding project name
+polar: ""                 # Single Polar username
+buy_me_a_coffee: ""       # Single Buy Me a Coffee username
+thanks_dev: ""            # Single thanks.dev username
+custom: [https://paypal.me/FrancoParisi]                # Up to 4 custom sponsorship URLs,['https://paypal.me/FrancoParisi']
